@@ -1,0 +1,7 @@
+C:\Users\qametrik\source\repos\teste\teste\bin\Debug\teste.exe.config
+C:\Users\qametrik\source\repos\teste\teste\bin\Debug\teste.exe
+C:\Users\qametrik\source\repos\teste\teste\bin\Debug\teste.pdb
+C:\Users\qametrik\source\repos\teste\teste\obj\Debug\teste.csprojAssemblyReference.cache
+C:\Users\qametrik\source\repos\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\qametrik\source\repos\teste\teste\obj\Debug\teste.exe
+C:\Users\qametrik\source\repos\teste\teste\obj\Debug\teste.pdb
